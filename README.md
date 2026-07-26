@@ -104,6 +104,8 @@ Applies recommendation techniques to business scenarios to support merchandising
 - Seaborn
 - Power BI
 - Jupyter Notebook
+- Git & GitHub
+- OpenAI ChatGPT
 
 ---
 
