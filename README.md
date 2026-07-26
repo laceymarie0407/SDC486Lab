@@ -89,8 +89,7 @@ Applies recommendation techniques to business scenarios to support merchandising
 |------|-------------|
 | Notebook (.ipynb) | Complete data preparation, analysis, and machine learning workflow |
 | Power BI (.pbix) | Interactive dashboards |
-| Final Report (.docx/.pdf) | Capstone report |
-| Presentation (.pptx) | Final project presentation |
+| Final Report (.docx) | Capstone report |
 
 ---
 
