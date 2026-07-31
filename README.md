@@ -1,5 +1,5 @@
-# SDC486Lab
 # Customer Shopping Behavior Analysis Using Machine Learning
+### SDC486Lab
 
 ## Project Overview
 
